@@ -1,0 +1,8 @@
+python-dotenv
+langchain-google-genai
+crewai
+crewai-tools
+google-generativeai
+pdfplumber
+spacy
+langchain-groq
